@@ -13,8 +13,11 @@
 
 h3
 {
-	width: 1000px;
-	background-color: white;
+	width: 475px;
+	background-color: rgb(230, 241, 255);
 	display: inline-block;
 }
-
+#titley{
+    width: 100px;
+    height: 100px;
+}
